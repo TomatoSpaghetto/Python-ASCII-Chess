@@ -11,7 +11,7 @@ from gamelogic import GameState, notationToPos, posToNotation
 from pieces import PROMOTABLE_PIECES
 
 borderDivider: str = "  ——" + "—————" * 7
-whiteCell: str = "███"
+whiteCell: str = "░░░"
 darkCell: str = "    "
 highlightCell: str = " ⊙ "
 
