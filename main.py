@@ -1,6 +1,8 @@
 """
 main.py
 
+By: Tom
+
 Handles ASCII board rendering, Piece selection, movement, and managing the game loop.
 """
 
