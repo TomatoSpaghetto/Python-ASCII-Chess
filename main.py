@@ -2,8 +2,9 @@
 main.py
 
 By: Tom
-
+Chess on an ASCII board.
 Handles ASCII board rendering, Piece selection, movement, and managing the game loop.
+Project finished on March 11th 2026
 """
 
 from __future__ import annotations
